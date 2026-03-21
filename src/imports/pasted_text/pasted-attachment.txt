@@ -1,0 +1,136 @@
+Design a modern, premium AI chat interface for a product called “MyClone AI – Client Gatekeeper”.
+
+The interface should feel:
+	•	Clean, minimal, and high-end
+	•	Similar to ChatGPT but more personality-driven
+	•	Designed for a product designer’s portfolio website
+
+⸻
+
+🖥️ LAYOUT STRUCTURE
+
+1. Main Chat Screen (Desktop First)
+	•	Full-width layout with centered chat container
+	•	Max width: 700–800px
+	•	Soft background (light gray or off-white)
+	•	Chat container with rounded corners (16–20px radius)
+	•	Subtle shadow for depth
+
+⸻
+
+2. Header Section
+
+Include:
+	•	Product name: MyClone AI
+	•	Small subtitle: “Talk to my AI before booking a call”
+	•	Status indicator: 🟢 “Online”
+
+Right side:
+	•	“Book a Call” button (secondary CTA)
+
+⸻
+
+3. Chat Area
+
+Design message bubbles:
+
+AI Messages:
+	•	Left aligned
+	•	Light background (soft gray or tinted)
+	•	Avatar: simple circle with initials “AI”
+
+User Messages:
+	•	Right aligned
+	•	Dark background or accent color
+	•	Clean typography
+
+⸻
+
+4. Input Area
+	•	Sticky at bottom
+	•	Rounded input field
+	•	Placeholder:
+“Tell me about your project…”
+	•	Send button (icon-based, minimal)
+
+⸻
+
+💬 DEFAULT FIRST MESSAGE (IMPORTANT)
+
+Preload the chat with:
+
+“Hey 😄
+Before you book a call with Adebayo, I can quickly help figure out if this is a good fit.
+What are you looking to build?”
+
+⸻
+
+🧩 UX BEHAVIOR (VISUAL HINTS)
+
+Design for:
+	•	Typing indicator (AI is thinking…)
+	•	Smooth message transitions
+	•	Slight delays (feels human)
+
+⸻
+
+🎨 STYLE GUIDE
+
+Typography:
+	•	Clean modern font (Inter, SF Pro, or similar)
+
+Colors:
+	•	Neutral base (white, gray tones)
+	•	Accent color (deep black or subtle brand color)
+
+Spacing:
+	•	Generous padding
+	•	Breathable layout
+
+⸻
+
+🔘 CALL-TO-ACTION MOMENT
+
+Design a special message state when AI suggests booking:
+	•	Highlighted message card
+	•	Button inside chat:
+👉 “Book a Call”
+
+⸻
+
+⚠️ TONE OF DESIGN
+
+The UI should communicate:
+	•	Premium
+	•	Intelligent
+	•	Slightly playful
+	•	Not corporate boring
+
+⸻
+
+📱 RESPONSIVE VERSION
+
+Also generate:
+	•	Mobile version
+	•	Full-screen chat experience
+	•	Sticky input
+
+⸻
+
+🔥 What you’ll get from this
+
+After running this in Figma Make, you’ll have:
+	•	A full chat UI
+	•	Ready-to-refine screens
+	•	Something you can prototype immediately
+
+⸻
+
+💡 Pro Tip (don’t skip this)
+
+After Figma generates it:
+
+👉 Come back and we’ll:
+	•	Refine the UX (make it feel elite, not generic)
+	•	Add micro-interactions
+	•	Design edge cases (low budget, rejection flow, etc.)
