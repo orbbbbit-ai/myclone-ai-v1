@@ -1,3 +1,3 @@
 export default function App() {
-  return <h1 style={{ fontSize: "40px" }}>NEW BUILD TEST 🔥</h1>;
+  return <h1>CONNECTED NOW 🔥</h1>;
 }
